@@ -1,4 +1,4 @@
-# ng-route , AngularJS
+# ng-route 
 
 A simple routing example using ng-route directive to demostrate routing in a SPA. This template serves the basic routing config and 
 helps devlopers kick start their project development using AngularJS.
